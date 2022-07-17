@@ -1,0 +1,32 @@
+/* .swiper-slide img {
+    max-width: 100%;
+    object-fit: contain;
+} */
+
+.mySwiper .swiper-slide>img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    object-position: center;
+}
+
+.brandSwiper .swiper-slide>img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    object-position: center;
+}
+
+.mySwiper .swiper-wrapper{
+    height: 40rem !important;
+}
+
+.brandSwiper .swiper-wrapper{
+    height: 20rem !important;
+}
+
+.title-catalog {
+    background-color: #fd7e14;
+    padding: 0.8rem;
+
+}
