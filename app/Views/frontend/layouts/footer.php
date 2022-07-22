@@ -27,13 +27,14 @@
                             <div class="me-4">Vikri Anto <span class="text-secondary">(202012014)</span></div>
                             <div class="align-self-center  flex-fill">
                                 <span class="d-flex">
-                                    <a href="http://" class="me-2 text-decoration-none text-white">
+                                    <a href="https://www.facebook.com/Soft.AMVikry/"
+                                        class="me-2 text-decoration-none text-white">
                                         <i class="fa fa-facebook-square" aria-hidden="true"></i>
                                     </a>
-                                    <a href="http://" class="me-2 text-decoration-none text-white">
-                                        <i class="fa fa-twitter-square aria-hidden=" true"></i>
-                                    </a>
-                                    <a href="http://" class="me-2 text-decoration-none text-white">
+                                    <!-- <a href="http://" class="me-2 text-decoration-none text-white">
+                                        <i class="fa fa-twitter-square" aria-hidden="true"></i>
+                                    </a> -->
+                                    <a href="https://github.com/Xeris459" class="me-2 text-decoration-none text-white">
                                         <i class="fa fa-github-square" aria-hidden="true"></i>
                                     </a>
                                 </span>
