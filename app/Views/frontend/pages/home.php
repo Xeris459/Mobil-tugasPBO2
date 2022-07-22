@@ -3,8 +3,9 @@
 <?= $this->section('content') ;?>
 <div class="swiper mySwiper">
     <div class="swiper-wrapper">
-        <div class="swiper-slide"><img src="<?= site_url("media/upload/1657556491_be211ef8e7d8d404f67b.png") ?>"></div>
-        <div class="swiper-slide"><img src="<?= site_url("media/upload/1657556491_be211ef8e7d8d404f67b.png") ?>"></div>
+        <?php foreach ($banner as $item) : ?>
+        <div class="swiper-slide"><img src="<?= site_url("media/upload/$item->image") ?>"></div>
+        <?php endforeach ?>
     </div>
     <div class="swiper-button-next"></div>
     <div class="swiper-button-prev"></div>
